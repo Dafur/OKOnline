@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/OKOnline/.vs/OKOnline/v15
+/OKOnline/obj/Debug
+/TestingWF/obj/Debug
